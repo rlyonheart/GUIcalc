@@ -1,6 +1,8 @@
 # GUIcalc
 Simple Tkinter GUI calculator
-![InShot_20210216_213529847](https://user-images.githubusercontent.com/74001397/108115205-7717e680-70a2-11eb-85a1-ebfe3a1e7171.jpg
+
+![InShot_20210216_213529847](https://user-images.githubusercontent.com/74001397/108115916-7fbcec80-70a3-11eb-83de-6ee4445bd210.jpg)
+
 
 # Screenshot(s)
 
